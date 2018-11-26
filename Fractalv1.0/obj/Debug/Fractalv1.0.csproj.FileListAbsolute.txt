@@ -1,0 +1,9 @@
+F:\C#\Fractalv1.0\Fractalv1.0\bin\Debug\Fractalv1.0.exe.config
+F:\C#\Fractalv1.0\Fractalv1.0\obj\Debug\Fractalv1.0.csprojResolveAssemblyReference.cache
+F:\C#\Fractalv1.0\Fractalv1.0\obj\Debug\Fractalv1._0.Form1.resources
+F:\C#\Fractalv1.0\Fractalv1.0\obj\Debug\Fractalv1._0.Properties.Resources.resources
+F:\C#\Fractalv1.0\Fractalv1.0\obj\Debug\Fractalv1.0.csproj.GenerateResource.Cache
+F:\C#\Fractalv1.0\Fractalv1.0\bin\Debug\Fractalv1.0.exe
+F:\C#\Fractalv1.0\Fractalv1.0\bin\Debug\Fractalv1.0.pdb
+F:\C#\Fractalv1.0\Fractalv1.0\obj\Debug\Fractalv1.0.exe
+F:\C#\Fractalv1.0\Fractalv1.0\obj\Debug\Fractalv1.0.pdb
